@@ -1,9 +1,2 @@
-# A whyshy Flet app
-
-An example of a minimal Flet app.
-
-To run the app:
-
-```
-flet run [app_directory]
+# just sample app for flet , that i made for fun but end up my friends telling me its good for mental health and for socail anxiety ,fell free to send update and all 
 ```
